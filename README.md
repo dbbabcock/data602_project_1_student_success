@@ -1,30 +1,30 @@
 # data602_project_1
 
-<h1>Student Performance:</h1>
+<h1>Purpose:</h1>
 
-Mundler Difflin Insurance Co. wants to know which features about their clients are most likely to increase the medical charges that they are billed and if it's possible to predict future charges based on this initial dataset. If so, it would be worthwhile for the company to put more resources into machine learning models in order to save money for both the company and their clients.
+Student tests, what matters
 
-To that end, they have produced a randomized, anonymized sampling of some of the data they have on their clients, some features about said clients, and a recent medical charge associated with the client.
+<h1>Goal:</h1>
 
-The goal is to identify features that increase medical charges and identify those features that are most likely to correspond to higher charges.
-
-This dataset contains information on 1338 medical visits made by individual clients and 7 corresponding, possibly important features for each client. These features include:
-
-1. Age
-2. Sex
-3. BMI
-4. Number of Children
-5. Smoker (Y/N)
-6. Region (NW/NE/SW/SE)
-7. Charges ($)
-
-The features are relatively limited, and other information about conditions the clients suffer from (heart disease, diabetes, etc.), repeat visits, medications, etc. would be useful but are not presently available. For now, the company hopes to demonstrate that this data could prove useful to the future of the company and that analyzing it is a worthwhile endeavor.
+The goal is to...
 
 <h1>Dataset Used:</h1>
 
-https://github.com/stedy/Machine-Learning-with-R-datasets/blob/master/insurance.csv
+Combined 10 of the 'large' sample sets from:
+
+http://roycekimmons.com/tools/generated_data/exams
 
 (Note: This is simulated data for practicing with)
+
+<h1>Data Features:</h1>
+
+This dataset is contains generated data for 10,000 students, several features about them, and their performance on 3 tests (Math, Reading, and Writing). The features are:
+
+1. Sex
+2. Ethnic Group (Anonymized)
+3. 
+
+The features are relatively limited, and other information about conditions the clients suffer from (heart disease, diabetes, etc.), repeat visits, medications, etc. would be useful but are not presently available. For now, the company hopes to demonstrate that this data could prove useful to the future of the company and that analyzing it is a worthwhile endeavor.
 
 <h1>Packages and Versions Used:</h1>
 
