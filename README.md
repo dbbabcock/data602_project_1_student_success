@@ -1,8 +1,8 @@
-# data602_project_1
+# DATA 602 Project 1: UMBC Entrance Exams and Predicting Student Success
 
 <h1>Purpose:</h1>
 
-Student tests, what matters
+UMBC has instituted a new policy of administering three exams in Math, Reading, and Writing to incoming students to ensure that they are prepared for the rigors of academic study.
 
 <h1>Goal:</h1>
 
@@ -10,7 +10,7 @@ The goal is to...
 
 <h1>Dataset Used:</h1>
 
-Combined 10 of the 'large' sample sets from:
+Combined 5 of the 'large' sample sets from:
 
 http://roycekimmons.com/tools/generated_data/exams
 
@@ -18,13 +18,13 @@ http://roycekimmons.com/tools/generated_data/exams
 
 <h1>Data Features:</h1>
 
-This dataset is contains generated data for 10,000 students, several features about them, and their performance on 3 tests (Math, Reading, and Writing). The features are:
+This dataset is contains generated data for 5,000 students, several features about them, and their performance on 3 tests (Math, Reading, and Writing). The features are:
 
 1. Sex
-2. Ethnic Group (Anonymized)
-3. 
-
-The features are relatively limited, and other information about conditions the clients suffer from (heart disease, diabetes, etc.), repeat visits, medications, etc. would be useful but are not presently available. For now, the company hopes to demonstrate that this data could prove useful to the future of the company and that analyzing it is a worthwhile endeavor.
+2. Ethnic Group (Anonymized into Groups A, B, C, D, E)
+3. Parental Level of Education
+4. Lunch (Standard / Free or Reduced)
+5. Test Preparation Course Completed (Yes / No)
 
 <h1>Packages and Versions Used:</h1>
 
@@ -34,18 +34,18 @@ Pandas version used: 1.0.5
 <br>Statsmodels version used: 0.11.1
 <br>Scikit-learn version used: 0.23.1
 
-<h1>Begin with data cleaning in this notebook:</h1>
+<h1>Begin with data preparation in this notebook:</h1>
 
-https://github.com/dbbabcock/DATA602_homework_1/blob/master/ins_data_cleaning.ipynb
+https://github.com/dbbabcock/data602_project_1/blob/main/Cleaning%20and%20EDA/stu_perf_file_prep.ipynb
 
-<h1>Continue with EDA in this notebook:</h1>
+<h1>Continue with EDA and then Cleaning for modeling in this notebook:</h1>
 
-https://github.com/dbbabcock/DATA602_homework_1/blob/master/ins_data_eda.ipynb
+https://github.com/dbbabcock/data602_project_1/blob/main/Cleaning%20and%20EDA/stu_perf_cleaning_and_eda.ipynb
 
-<h1>Construct the linear regression model in this notebook:</h1>
+<h1>Construct the OLS regression and decision tree model in this notebook:</h1>
 
-https://github.com/dbbabcock/DATA602_homework_1/blob/master/linear_analysis.ipynb
+https://github.com/dbbabcock/data602_project_1/blob/main/stu_perf_modeling.ipynb
 
 <h1>Final report of findings here:</h1>
 
-https://github.com/dbbabcock/DATA602_homework_1/blob/master/final_report.ipynb
+https://github.com/dbbabcock/data602_project_1/blob/main/stu_perf_report.ipynb
