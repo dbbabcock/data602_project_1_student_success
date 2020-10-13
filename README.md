@@ -2,15 +2,17 @@
 
 <h1>Purpose:</h1>
 
-UMBC has instituted a new policy of administering three exams in Math, Reading, and Writing to incoming students to ensure that they are prepared for the rigors of academic study.
+UMBC has instituted a new policy of administering three exams in Math, Reading, and Writing to incoming students to ensure that they are prepared for the rigors of academic study. With 5,000 tests already completed, the administration would like to know how information about the student's themselves might affect their average score. With a model that could predict the average score, UMBC could adjust their policies or help guide students to ensure that they can succeed once they are admitted into the university.
+
+(This is a fictional scenario using artifically generated data for the DATA 602 Project 1 that requires creating models for a classification or regression problem)
 
 <h1>Goal:</h1>
 
-The goal is to...
+The goal of this exercise is to see whether or not the features of the dataset can be used to train a model that can predict the average score of the three new entrance exams for new UMBC students.
 
 <h1>Dataset Used:</h1>
 
-Combined 5 of the 'large' sample sets from:
+Combined 5 of the 'large' sample sets (1,000 rows each) from:
 
 http://roycekimmons.com/tools/generated_data/exams
 
