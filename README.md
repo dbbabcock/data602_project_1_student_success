@@ -52,6 +52,6 @@ https://github.com/dbbabcock/data602_project_1/blob/main/stu_perf_modeling.ipynb
 
 https://github.com/dbbabcock/data602_project_1/blob/main/stu_perf_report.ipynb
 
-Presentation Video:
+<h1>Presentation Video:</h1>
 
 https://youtu.be/lin_rrewRN4
