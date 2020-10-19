@@ -36,21 +36,21 @@ Pandas version used: 1.0.5
 <br>Statsmodels version used: 0.11.1
 <br>Scikit-learn version used: 0.23.1
 
-<h1>Begin with data preparation in this notebook:</h1>
+<h1>Begin with basic data preparation in this notebook:</h1>
 
-https://github.com/dbbabcock/data602_project_1/blob/main/Cleaning%20and%20EDA/stu_perf_file_prep.ipynb
+https://github.com/dbbabcock/data602_project_1_student_success/blob/main/data_prep/stu_perf_file_prep.ipynb
 
 <h1>Continue with EDA and then Cleaning for modeling in this notebook:</h1>
 
-https://github.com/dbbabcock/data602_project_1/blob/main/Cleaning%20and%20EDA/stu_perf_cleaning_and_eda.ipynb
+https://github.com/dbbabcock/data602_project_1_student_success/blob/main/clean_and_eda/stu_perf_cleaning_and_eda.ipynb
 
 <h1>Construct the OLS regression and decision tree model in this notebook:</h1>
 
-https://github.com/dbbabcock/data602_project_1/blob/main/stu_perf_modeling.ipynb
+https://github.com/dbbabcock/data602_project_1_student_success/blob/main/data_prep/stu_perf_file_prep.ipynb
 
 <h1>Final report of findings here:</h1>
 
-https://github.com/dbbabcock/data602_project_1/blob/main/stu_perf_report.ipynb
+https://github.com/dbbabcock/data602_project_1_student_success/blob/main/stu_perf_report.ipynb
 
 <h1>Presentation Video:</h1>
 
